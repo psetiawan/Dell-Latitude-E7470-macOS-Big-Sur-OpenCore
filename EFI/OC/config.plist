@@ -1262,11 +1262,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C17633700CDHMHKFB</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>NMBZpkjS</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1274,9 +1274,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro13,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C17S7JZ8GVC1</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>4A1E6E5B-81DC-4BC9-BF04-01ADDDE2123F</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
