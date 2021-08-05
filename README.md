@@ -35,6 +35,7 @@
 - macOS: Big Sur 11.5.1
 - OpenCore: 0.7.2
 - Audio AppleALC with boot-args alcid=11
+- USB Port Limit to get Webcam working
 - PowerManagement using CPUFriend BatterySaving (to reconfigure please use CPUFrindFriend)
 
 #Credits
