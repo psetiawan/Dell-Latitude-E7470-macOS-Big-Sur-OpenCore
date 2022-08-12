@@ -39,6 +39,7 @@
 - PowerManagement using CPUFriend BatterySaving (to reconfigure please use CPUFrindFriend)
 
 #Credits
+- Original EFI from OSXLatitude https://osxlatitude.com/forums/topic/9179-dell-latitude-e7x70-clover-and-opencore/
 - Acidanthera
 - Dortania
 - adityabakare https://github.com/adityabakare/macOS-Dell-Latitude-E7470
